@@ -26,6 +26,7 @@ Everything is a file
 
 **System Utility** Makes available to the user all of the operating system's functionality.
 
+
 **File System Hierarchy**
 - /	- The top-level directory is the root filesystem and contains all of the files required to boot the operating system 
 - /bin - Contains essential command binaries.
