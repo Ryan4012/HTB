@@ -49,23 +49,23 @@ Everything is a file
 ## Commands:
 
 Allows the user to discover which options a tool or command offer
-- man <tool>
-- <tool> --help
-- <tool> -h
-- apropos <keyword>
+- ```man <tool>```
+- ```<tool> --help```
+- ```<tool> -h```
+- ```apropos <keyword>```
 
 Clearing your terminal and Searching through your history
 - [Ctrl] + [L]
 - [Ctrl] + [R]
 
 Find inode value 
-- -i
+- ```-i```
 
 Last Modified file 
-- -lt
+- ```-lt```
   
 Finding files in you system
-- which <file> #Finds the files path
-- find <location> <options> 
-- find / -type f -name *.<file extension> #Finds the file(s) with specified extension
-- wc -l #Lists out the number of files
+- ```which <file>``` #Finds the files path
+- ```find <location>``` <options> 
+- ```find / -type f -name *.<file extension>``` #Finds the file(s) with specified extension
+- ```wc -l``` #Lists out the number of files
